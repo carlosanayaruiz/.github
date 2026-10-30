@@ -1,5 +1,7 @@
-# Carlos Anaya Ruiz · Consultoría SEO y desarrollo
-Consultoría de SEO técnico, desarrollo web con Next.js, automatización con IA y dashboards, desde Ciudad de México.
+# Carlos Anaya Ruiz · Automatización y software a la medida
+Resolvemos problemas de empresas con automatización, software a la medida y sitios web. Como servicio adicional, SEO técnico.
 Aquí publicamos proyectos de código abierto: herramientas pequeñas, plantillas y ejemplos que usamos en nuestro trabajo.
-- Sitio: https://www.carlosanayaruiz.com/es
-- Contacto: https://www.carlosanayaruiz.com/es/contacto
+- Automatización: https://www.carlosanayaruiz.com/es/automatizacion-ia?utm_source=github&utm_medium=org&utm_campaign=readme
+- Desarrollo web: https://www.carlosanayaruiz.com/es/desarrollo-web?utm_source=github&utm_medium=org&utm_campaign=readme
+- Contacto: https://www.carlosanayaruiz.com/es/contacto?utm_source=github&utm_medium=org&utm_campaign=readme
+
